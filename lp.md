@@ -6,4 +6,4 @@ isAvailable: true
 scenarioCount: 1
 scenarios:
   - test scenario 2
-"categories": Golang
+categories: Golang

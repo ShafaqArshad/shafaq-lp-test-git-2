@@ -13,4 +13,4 @@ scenarios:
   - How to run multiple Containers in a Pod
   - Formatting Kubectl Output
   - Init Containers
-title: St
+title: Start with Kubernetes

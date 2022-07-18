@@ -3,7 +3,7 @@ categories:
 description: Get started using Kubernetes. Learn the kubernetes concepts by doing.
 isAvailable: true
 isNew: false
-isPremium: false
+isPremium: true
 license: Apache
 scenarioCount: 6
 scenarios:

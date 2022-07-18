@@ -6,7 +6,6 @@ isNew: false
 isPremium: false
 license: Apache
 scenarioCount: 6
-state: approved
 scenarios:
   - Exploring Kubernetes Deployments
   - Creating a Kubernetes Deployment

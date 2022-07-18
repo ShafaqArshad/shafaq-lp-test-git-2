@@ -1,6 +1,6 @@
 categories:
   - Kubernetes
-description: Get 
+description: Get started using Kubernetes. Learn the kubernetes concepts by doing.
 isAvailable: false
 isNew: true
 isPremium: true

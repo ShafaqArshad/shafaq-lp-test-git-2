@@ -1,7 +1,7 @@
 categories:
   - Kubernetes
 description: Get started using Kubernetes. Learn the kubernetes concepts by doing.
-isAvailable: false
+isAvailable: true
 isNew: true
 isPremium: true
 license: Apache

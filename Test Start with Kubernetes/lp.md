@@ -7,7 +7,7 @@ isPremium: true
 license: Apache
 scenarioCount: 6
 scenarios:
-  - Exploring Kubernetes Deployments
+  - Test SA Kubernetes Deployments
   - Creating a Kubernetes Deployment
   - Communication among different containers in a Pod
   - How to run multiple Containers in a Pod

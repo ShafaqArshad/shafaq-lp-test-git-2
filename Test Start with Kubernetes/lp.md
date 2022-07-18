@@ -1,8 +1,8 @@
 categories:
   - Kubernetes
-description: Get started using Kubernetes. Learn the kubernetes concepts by doing.
-isAvailable: true
-isNew: false
+description: Get 
+isAvailable: false
+isNew: true
 isPremium: true
 license: Apache
 scenarioCount: 6
@@ -13,4 +13,4 @@ scenarios:
   - How to run multiple Containers in a Pod
   - Formatting Kubectl Output
   - Init Containers
-title: Start with Kubernetes
+title: St

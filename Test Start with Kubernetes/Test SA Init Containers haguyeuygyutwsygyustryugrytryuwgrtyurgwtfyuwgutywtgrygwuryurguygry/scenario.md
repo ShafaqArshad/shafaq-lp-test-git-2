@@ -1,6 +1,5 @@
 image: kubernetes
 description: Learn the basics of Init Containers and how these work.
-state: approved
 environment: ""
 environmentVars: null
 isAvailable: true

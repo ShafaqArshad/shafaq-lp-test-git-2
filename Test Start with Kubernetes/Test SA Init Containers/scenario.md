@@ -2,7 +2,7 @@ image: kubernetes
 description: Learn the basics of Init Containers and how these work.
 environment: ""
 isAvailable: true
-isNew: false
+isNew: true
 isPremium: true
 level: beginner
 license: ""

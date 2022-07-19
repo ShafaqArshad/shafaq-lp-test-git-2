@@ -7,5 +7,5 @@ isPremium: true
 license: Apache
 scenarioCount: 6
 scenarios:
-  - Test SA Init Containers haguyeuygyutwsygyustryugrytryuwgrtyurgwtfyuwgutywtgrygwuryurguygry
+  - Test SA Init Containers
 title: Test Start with Kubernetes

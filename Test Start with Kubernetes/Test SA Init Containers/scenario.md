@@ -8,6 +8,5 @@ level: beginner
 license: ""
 steps:
 - step1.md
-thumbnail: https://brainarator.s3.amazonaws.com/kubernetes.svg
 time: 25 minutes
 title: Test SA Init Containers

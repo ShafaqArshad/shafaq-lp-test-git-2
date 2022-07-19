@@ -1,7 +1,6 @@
 image: kubernetes
 description: Learn the basics of Init Containers and how these work.
 environment: ""
-environmentVars: null
 isAvailable: true
 isNew: false
 isPremium: true

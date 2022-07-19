@@ -8,4 +8,4 @@ license: Apache
 scenarioCount: 6
 scenarios:
   - Test SA Init Containers haguyeuygyutwsygyustryugrytryuwgrtyurgwtfyuwgutywtgrygwuryurguygry
-title: Start with Kubernetes
+title: Start with Kubernetes test
